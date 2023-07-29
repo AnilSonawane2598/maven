@@ -1,0 +1,118 @@
+2023-07-23 16:24:19,691 [main] INFO Base_package.Base_class - start log
+2023-07-23 16:25:28,728 [main] INFO Base_package.Base_class - start log
+2023-07-23 16:28:21,562 [main] INFO Base_package.Base_class - start log
+2023-07-23 16:33:01,312 [main] INFO Base_package.Base_class - start log
+2023-07-23 16:34:33,910 [main] INFO Base_package.Base_class - start log
+2023-07-23 16:35:59,378 [main] INFO Base_package.Base_class - start log
+2023-07-23 16:37:43,227 [main] INFO Base_package.Base_class - start log
+2023-07-23 16:41:08,159 [main] INFO open url - start log
+2023-07-23 16:41:15,291 [main] INFO open url - sign in page
+2023-07-23 16:41:35,871 [main] INFO open url - close browser
+2023-07-23 16:48:49,673 [main] INFO open url - start log
+2023-07-23 16:48:56,609 [main] INFO open url - sign in page
+2023-07-23 16:49:00,735 [main] INFO open url - ente firstname
+2023-07-23 16:49:00,834 [main] INFO open url - enter last name
+2023-07-23 16:49:01,056 [main] INFO open url - enter mobile number
+2023-07-23 16:49:14,106 [main] INFO open url - submit button
+2023-07-23 16:49:14,164 [main] INFO open url - title is currect
+2023-07-23 16:49:17,865 [main] INFO open url - close browser
+2023-07-23 17:08:12,906 [main] INFO open url - start log
+2023-07-23 17:08:21,192 [main] INFO open url - sign in page
+2023-07-23 17:08:25,404 [main] INFO open url - ente firstname
+2023-07-23 17:08:25,548 [main] INFO open url - enter last name
+2023-07-23 17:08:25,799 [main] INFO open url - enter mobile number
+2023-07-23 17:08:39,325 [main] INFO open url - submit button
+2023-07-23 17:08:39,353 [main] INFO open url - title is currect
+2023-07-23 17:08:42,830 [main] INFO open url - close browser
+2023-07-23 17:11:03,772 [main] INFO open url - start log
+2023-07-23 17:11:10,991 [main] INFO open url - sign in page
+2023-07-23 17:11:15,137 [main] INFO open url - ente firstname
+2023-07-23 17:11:15,264 [main] INFO open url - enter last name
+2023-07-23 17:11:15,468 [main] INFO open url - enter mobile number
+2023-07-23 17:11:27,941 [main] INFO open url - submit button
+2023-07-23 17:11:27,959 [main] INFO open url - title is currect
+2023-07-23 17:11:31,429 [main] INFO open url - close browser
+2023-07-23 19:00:21,555 [main] INFO open url - start log
+2023-07-23 19:00:29,848 [main] INFO open url - sign in page
+2023-07-23 19:00:34,026 [main] INFO open url - ente firstname
+2023-07-23 19:00:34,134 [main] INFO open url - enter last name
+2023-07-23 19:00:34,365 [main] INFO open url - enter mobile number
+2023-07-23 19:00:46,655 [main] INFO open url - submit button
+2023-07-23 19:00:46,704 [main] INFO open url - title is currect
+2023-07-23 19:00:50,248 [main] INFO open url - close browser
+2023-07-23 19:07:13,112 [main] INFO open url - start log
+2023-07-23 19:07:19,392 [main] INFO open url - sign in page
+2023-07-23 19:07:23,524 [main] INFO open url - ente firstname
+2023-07-23 19:07:23,632 [main] INFO open url - enter last name
+2023-07-23 19:07:23,827 [main] INFO open url - enter mobile number
+2023-07-23 19:07:35,716 [main] INFO open url - submit button
+2023-07-23 19:07:35,788 [main] INFO open url - title is currect
+2023-07-23 19:07:39,123 [main] INFO open url - close browser
+2023-07-23 19:19:25,875 [main] INFO open url - start log
+2023-07-23 19:19:33,414 [main] INFO open url - sign in page
+2023-07-23 19:19:37,545 [main] INFO open url - ente firstname
+2023-07-23 19:19:37,636 [main] INFO open url - enter last name
+2023-07-23 19:19:37,824 [main] INFO open url - enter mobile number
+2023-07-23 19:19:49,791 [main] INFO open url - submit button
+2023-07-23 19:19:49,801 [main] INFO open url - title is currect
+2023-07-23 19:19:53,256 [main] INFO open url - close browser
+2023-07-23 19:32:31,812 [main] INFO open url - start log
+2023-07-23 19:32:38,852 [main] INFO open url - close browser
+2023-07-23 19:33:36,465 [main] INFO open url - start log
+2023-07-23 19:33:41,836 [main] INFO open url - close browser
+2023-07-23 19:34:10,121 [main] INFO open url - start log
+2023-07-23 19:34:16,584 [main] INFO open url - close browser
+2023-07-23 19:34:49,306 [main] INFO open url - start log
+2023-07-23 19:35:04,784 [main] INFO open url - close browser
+2023-07-23 19:35:06,365 [main] INFO open url - start log
+2023-07-23 19:35:22,310 [main] INFO open url - close browser
+2023-07-23 19:48:00,624 [main] INFO open url - start log
+2023-07-23 19:48:08,386 [main] INFO open url - close browser
+2023-07-23 19:48:10,379 [main] INFO open url - start log
+2023-07-23 19:48:16,629 [main] INFO open url - close browser
+2023-07-23 19:49:30,093 [main] INFO open url - start log
+2023-07-23 19:49:35,995 [main] INFO open url - close browser
+2023-07-23 19:56:36,715 [main] INFO open url - start log
+2023-07-23 19:56:44,045 [main] INFO open url - close browser
+2023-07-23 19:56:45,569 [main] INFO open url - start log
+2023-07-23 19:56:52,550 [main] INFO open url - close browser
+2023-07-23 19:58:43,561 [main] INFO open url - start log
+2023-07-23 19:58:49,729 [main] INFO open url - close browser
+2023-07-23 19:58:52,028 [main] INFO open url - start log
+2023-07-23 19:58:58,487 [main] INFO open url - close browser
+2023-07-23 19:59:50,693 [main] INFO open url - start log
+2023-07-23 19:59:58,989 [main] INFO open url - close browser
+2023-07-23 20:04:57,975 [main] INFO open url - start log
+2023-07-23 20:05:05,588 [main] INFO open url - close browser
+2023-07-23 20:16:27,380 [main] INFO open url - start log
+2023-07-23 20:16:34,831 [main] INFO open url - close browser
+2023-07-23 20:16:36,727 [main] INFO open url - start log
+2023-07-23 20:16:44,547 [main] INFO open url - close browser
+2023-07-23 20:16:46,193 [main] INFO open url - start log
+2023-07-23 20:16:53,396 [main] INFO open url - close browser
+2023-07-23 20:16:55,211 [main] INFO open url - start log
+2023-07-23 20:17:00,993 [main] INFO open url - close browser
+2023-07-23 20:17:02,316 [main] INFO open url - start log
+2023-07-23 20:17:07,749 [main] INFO open url - close browser
+2023-07-25 13:04:21,953 [main] INFO open url - start log
+2023-07-25 13:04:29,602 [main] INFO open url - close browser
+2023-07-25 13:06:03,345 [main] INFO open url - start log
+2023-07-25 13:06:09,055 [main] INFO open url - close browser
+2023-07-25 15:05:09,351 [main] INFO open url - start log
+2023-07-25 15:05:18,205 [main] INFO open url - close browser
+2023-07-25 15:08:42,659 [main] INFO open url - start log
+2023-07-25 15:08:49,041 [main] INFO open url - close browser
+2023-07-25 15:12:29,631 [main] INFO open url - start log
+2023-07-25 15:12:38,055 [main] INFO open url - close browser
+2023-07-25 15:20:22,663 [main] INFO open url - start log
+2023-07-25 15:20:35,605 [main] INFO open url - close browser
+2023-07-25 15:22:37,315 [main] INFO open url - start log
+2023-07-25 15:22:44,765 [main] INFO open url - close browser
+2023-07-28 11:26:26,247 [main] INFO open url - start log
+2023-07-28 11:26:35,827 [main] INFO open url - close browser
+2023-07-28 11:27:00,510 [main] INFO open url - start log
+2023-07-28 11:27:07,881 [main] INFO open url - close browser
+2023-07-28 11:33:24,452 [main] INFO open url - start log
+2023-07-28 11:33:31,235 [main] INFO open url - close browser
+2023-07-29 14:33:35,198 [main] INFO open url - start log
+2023-07-29 14:33:41,427 [main] INFO open url - close browser

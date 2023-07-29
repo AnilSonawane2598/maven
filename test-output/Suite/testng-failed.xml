@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="opendriver" value="edge"/>
+  <listeners>
+    <listener class-name="Utilities_package.mytransform"/>
+    <listener class-name="Utilities_package.listeners_class"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Test_package.login_test_class">
+        <methods>
+          <include name="log_in"/>
+          <include name="closebrowser"/>
+          <include name="openbrowser"/>
+        </methods>
+      </class> <!-- Test_package.login_test_class -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

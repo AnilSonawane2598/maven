@@ -1,0 +1,118 @@
+2023-07-23 16:24:19,691 - Base_package.Base_class -INFO - start log
+2023-07-23 16:25:28,728 - Base_package.Base_class -INFO - start log
+2023-07-23 16:28:21,562 - Base_package.Base_class -INFO - start log
+2023-07-23 16:33:01,312 - Base_package.Base_class -INFO - start log
+2023-07-23 16:34:33,910 - Base_package.Base_class -INFO - start log
+2023-07-23 16:35:59,378 - Base_package.Base_class -INFO - start log
+2023-07-23 16:37:43,227 - Base_package.Base_class -INFO - start log
+2023-07-23 16:41:08,159 - open url -INFO - start log
+2023-07-23 16:41:15,291 - open url -INFO - sign in page
+2023-07-23 16:41:35,871 - open url -INFO - close browser
+2023-07-23 16:48:49,673 - open url -INFO - start log
+2023-07-23 16:48:56,609 - open url -INFO - sign in page
+2023-07-23 16:49:00,735 - open url -INFO - ente firstname
+2023-07-23 16:49:00,834 - open url -INFO - enter last name
+2023-07-23 16:49:01,056 - open url -INFO - enter mobile number
+2023-07-23 16:49:14,106 - open url -INFO - submit button
+2023-07-23 16:49:14,164 - open url -INFO - title is currect
+2023-07-23 16:49:17,865 - open url -INFO - close browser
+2023-07-23 17:08:12,906 - open url -INFO - start log
+2023-07-23 17:08:21,192 - open url -INFO - sign in page
+2023-07-23 17:08:25,404 - open url -INFO - ente firstname
+2023-07-23 17:08:25,548 - open url -INFO - enter last name
+2023-07-23 17:08:25,799 - open url -INFO - enter mobile number
+2023-07-23 17:08:39,325 - open url -INFO - submit button
+2023-07-23 17:08:39,353 - open url -INFO - title is currect
+2023-07-23 17:08:42,830 - open url -INFO - close browser
+2023-07-23 17:11:03,772 - open url -INFO - start log
+2023-07-23 17:11:10,991 - open url -INFO - sign in page
+2023-07-23 17:11:15,137 - open url -INFO - ente firstname
+2023-07-23 17:11:15,264 - open url -INFO - enter last name
+2023-07-23 17:11:15,468 - open url -INFO - enter mobile number
+2023-07-23 17:11:27,941 - open url -INFO - submit button
+2023-07-23 17:11:27,959 - open url -INFO - title is currect
+2023-07-23 17:11:31,429 - open url -INFO - close browser
+2023-07-23 19:00:21,555 - open url -INFO - start log
+2023-07-23 19:00:29,848 - open url -INFO - sign in page
+2023-07-23 19:00:34,026 - open url -INFO - ente firstname
+2023-07-23 19:00:34,134 - open url -INFO - enter last name
+2023-07-23 19:00:34,365 - open url -INFO - enter mobile number
+2023-07-23 19:00:46,655 - open url -INFO - submit button
+2023-07-23 19:00:46,704 - open url -INFO - title is currect
+2023-07-23 19:00:50,248 - open url -INFO - close browser
+2023-07-23 19:07:13,112 - open url -INFO - start log
+2023-07-23 19:07:19,392 - open url -INFO - sign in page
+2023-07-23 19:07:23,524 - open url -INFO - ente firstname
+2023-07-23 19:07:23,632 - open url -INFO - enter last name
+2023-07-23 19:07:23,827 - open url -INFO - enter mobile number
+2023-07-23 19:07:35,716 - open url -INFO - submit button
+2023-07-23 19:07:35,788 - open url -INFO - title is currect
+2023-07-23 19:07:39,123 - open url -INFO - close browser
+2023-07-23 19:19:25,875 - open url -INFO - start log
+2023-07-23 19:19:33,414 - open url -INFO - sign in page
+2023-07-23 19:19:37,545 - open url -INFO - ente firstname
+2023-07-23 19:19:37,636 - open url -INFO - enter last name
+2023-07-23 19:19:37,824 - open url -INFO - enter mobile number
+2023-07-23 19:19:49,791 - open url -INFO - submit button
+2023-07-23 19:19:49,801 - open url -INFO - title is currect
+2023-07-23 19:19:53,256 - open url -INFO - close browser
+2023-07-23 19:32:31,812 - open url -INFO - start log
+2023-07-23 19:32:38,852 - open url -INFO - close browser
+2023-07-23 19:33:36,465 - open url -INFO - start log
+2023-07-23 19:33:41,836 - open url -INFO - close browser
+2023-07-23 19:34:10,121 - open url -INFO - start log
+2023-07-23 19:34:16,584 - open url -INFO - close browser
+2023-07-23 19:34:49,306 - open url -INFO - start log
+2023-07-23 19:35:04,784 - open url -INFO - close browser
+2023-07-23 19:35:06,365 - open url -INFO - start log
+2023-07-23 19:35:22,310 - open url -INFO - close browser
+2023-07-23 19:48:00,624 - open url -INFO - start log
+2023-07-23 19:48:08,386 - open url -INFO - close browser
+2023-07-23 19:48:10,379 - open url -INFO - start log
+2023-07-23 19:48:16,629 - open url -INFO - close browser
+2023-07-23 19:49:30,093 - open url -INFO - start log
+2023-07-23 19:49:35,995 - open url -INFO - close browser
+2023-07-23 19:56:36,715 - open url -INFO - start log
+2023-07-23 19:56:44,045 - open url -INFO - close browser
+2023-07-23 19:56:45,569 - open url -INFO - start log
+2023-07-23 19:56:52,550 - open url -INFO - close browser
+2023-07-23 19:58:43,561 - open url -INFO - start log
+2023-07-23 19:58:49,729 - open url -INFO - close browser
+2023-07-23 19:58:52,028 - open url -INFO - start log
+2023-07-23 19:58:58,487 - open url -INFO - close browser
+2023-07-23 19:59:50,693 - open url -INFO - start log
+2023-07-23 19:59:58,989 - open url -INFO - close browser
+2023-07-23 20:04:57,975 - open url -INFO - start log
+2023-07-23 20:05:05,588 - open url -INFO - close browser
+2023-07-23 20:16:27,380 - open url -INFO - start log
+2023-07-23 20:16:34,831 - open url -INFO - close browser
+2023-07-23 20:16:36,727 - open url -INFO - start log
+2023-07-23 20:16:44,547 - open url -INFO - close browser
+2023-07-23 20:16:46,193 - open url -INFO - start log
+2023-07-23 20:16:53,396 - open url -INFO - close browser
+2023-07-23 20:16:55,211 - open url -INFO - start log
+2023-07-23 20:17:00,993 - open url -INFO - close browser
+2023-07-23 20:17:02,316 - open url -INFO - start log
+2023-07-23 20:17:07,749 - open url -INFO - close browser
+2023-07-25 13:04:21,953 - open url -INFO - start log
+2023-07-25 13:04:29,602 - open url -INFO - close browser
+2023-07-25 13:06:03,345 - open url -INFO - start log
+2023-07-25 13:06:09,055 - open url -INFO - close browser
+2023-07-25 15:05:09,351 - open url -INFO - start log
+2023-07-25 15:05:18,205 - open url -INFO - close browser
+2023-07-25 15:08:42,659 - open url -INFO - start log
+2023-07-25 15:08:49,041 - open url -INFO - close browser
+2023-07-25 15:12:29,631 - open url -INFO - start log
+2023-07-25 15:12:38,055 - open url -INFO - close browser
+2023-07-25 15:20:22,663 - open url -INFO - start log
+2023-07-25 15:20:35,605 - open url -INFO - close browser
+2023-07-25 15:22:37,315 - open url -INFO - start log
+2023-07-25 15:22:44,765 - open url -INFO - close browser
+2023-07-28 11:26:26,247 - open url -INFO - start log
+2023-07-28 11:26:35,827 - open url -INFO - close browser
+2023-07-28 11:27:00,510 - open url -INFO - start log
+2023-07-28 11:27:07,881 - open url -INFO - close browser
+2023-07-28 11:33:24,452 - open url -INFO - start log
+2023-07-28 11:33:31,235 - open url -INFO - close browser
+2023-07-29 14:33:35,198 - open url -INFO - start log
+2023-07-29 14:33:41,427 - open url -INFO - close browser
